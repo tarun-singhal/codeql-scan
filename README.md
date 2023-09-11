@@ -1,0 +1,2 @@
+# codeql-scan
+CodeQL scanning
